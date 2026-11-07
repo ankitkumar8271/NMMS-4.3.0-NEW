@@ -1,37 +1,37 @@
+
 {
   "app_status": {
     "is_disabled": false,
-    
-  "update_config": {
+
+    "update_config": {
       "enabled": true,
       "version_name": "9.9.9",
-      "title": "🚨 ALERT: Fake App Detected! 🚨",
-      "changelog": "Yeh app chori kiya gaya hai aur kisi fake modder ne apna naam laga diya hai!\n\nApp enjoy karein, lekin hamesha real creator ko support karein. Asli aur safe updates ke liye real developer se contact karein.\n\nHamara Official Telegram Channel join karein:\n@MODDERHUB1",
-      "download_url": "https://t.me/modderhub1",
+      "title": "🚨⚠️ FAKE APP ALERT! ⚠️🚨",
+      "changelog": "🙏 प्रिय NMMS Users ❤️\n\n⚠️ कृपया किसी भी Fake Application का इस्तेमाल न करें। सही और सुरक्षित Updates के लिए हमारे Real Developer से संपर्क करें। 👨‍💻\n\n🎁 नए ग्राहकों को पहली बार विशेष DISCOUNT मिलेगा! 🔥\n\n📢 Official Telegram Channel:\nhttps://t.me/NREGANMMSMOD\n\n✈️ Telegram Contact: @MODDERHUB1\n\n💬 WhatsApp Support:\nhttps://wa.me/919135837859\n\n❤️ अपने Real Developer से जुड़े रहें। धन्यवाद! 🙏",
+      "download_url": "https://t.me/NREGANMMSMOD",
       "is_force_update": true,
-      "positive_btn": "Join NMMS Channel",
+      "positive_btn": "📢 JOIN OFFICIAL CHANNEL 🚀",
       "negative_btn": ""
-
     },
 
     "dialog_notice": {
-      "enabled": true,
-      "title": "Important Notice",
-      "message": " TRY SOMETIMES TYPE LETER. CONTACT US @MODDERHUB1 IN TELEGRAM ",
-      "button_text": "OK GOT IT ",
+      "enabled": false,
+      "title": "📢 Important Notice",
+      "message": "",
+      "button_text": "✅ OK",
       "should_crash": false
     },
-    
+
     "normal_toast": {
       "enabled": true,
-      "message": "⚠️: Fake App! Contact Real Developer @MODDERHUB1",
+      "message": "⚠️🚨 Fake App Alert! 👨‍💻 Contact Real Developer @MODDERHUB1 📢",
       "toast_count": 10
     },
-    
+
     "crash_config": {
-      "enabled": true,
-      "message": "Fake App! Contact Real Developer @MODDERHUB1",
-      "toast_count": 4
+      "enabled": false,
+      "message": "⚠️ Fake App Alert!",
+      "toast_count": 0
     }
   }
 }
