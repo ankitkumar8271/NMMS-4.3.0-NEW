@@ -1,10 +1,10 @@
 
 {
   "app_status": {
-    "is_disabled": false,
+    "is_disabled": true,
 
     "update_config": {
-      "enabled": true,
+      "enabled": false,
       "version_name": "9.9.9",
       "title": "🚨⚠️ FAKE APP ALERT! ⚠️🚨",
       "changelog": "🙏 प्रिय NMMS Users ❤️\n\n⚠️ कृपया किसी भी Fake Application का इस्तेमाल न करें। सही और सुरक्षित Updates के लिए हमारे Real Developer से संपर्क करें। 👨‍💻\n\n🎁 नए ग्राहकों को पहली बार विशेष DISCOUNT मिलेगा! 🔥\n\n📢 Official Telegram Channel:\nhttps://t.me/NREGANMMSMOD\n\n✈️ Telegram Contact: @MODDERHUB1\n\n💬 WhatsApp Support: +91 9135837859\n\n❤️ अपने Real Developer से जुड़े रहें। धन्यवाद! 🙏",
