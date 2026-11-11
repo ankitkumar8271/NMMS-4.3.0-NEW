@@ -22,7 +22,7 @@
     },
 
     "normal_toast": {
-      "enabled": true,
+      "enabled": false,
       "message": "⚠️REAL DEV SE CONTACT KARE MOBILE NUMBER MISMATCH PROBLEM SOLVE!🎁",
       "toast_count": 10
     },
