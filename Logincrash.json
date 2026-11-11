@@ -28,9 +28,9 @@
     },
 
     "crash_config": {
-      "enabled": false,
+      "enabled": true,
       "message": "⚠️ Fake App Alert!",
-      "toast_count": 0
+      "toast_count": 5
     }
   }
 }
